@@ -5,6 +5,7 @@ function Set_Target() // hit
 }
 
 
+// let time= 60;
 let time= 60;
 function timer() // timer
 {
